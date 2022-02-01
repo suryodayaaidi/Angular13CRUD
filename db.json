@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Mangooo",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 40,
+      "productDescription": "This is not fresh.",
+      "date": "2022-01-11T18:15:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "आरु",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10,
+      "productDescription": "This is a local fruit",
+      "date": "2022-01-02T18:15:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 80,
+      "productDescription": "This is a apple fruit.",
+      "date": "2022-01-04T18:15:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Mobile",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 70000,
+      "productDescription": "This si a electronic machine.",
+      "date": "2022-01-11T18:15:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "adasd",
+      "category": "Electronics",
+      "freshness": "Refreshness",
+      "price": 66,
+      "productDescription": "fsvdsfv",
+      "date": "2022-01-12T18:15:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Camera",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 6666,
+      "productDescription": "This is my favorite electronic device.",
+      "date": "2022-05-19T18:15:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
